@@ -1,0 +1,19 @@
+#KDD LAB 01 ref link
+https://www.youtube.com/watch?v=p9nlBLO0N4U&list=PLfX2IHFUV0cHE8lekKsvjE7Xp3mDkd3Ta
+
+--------------------------------------------------------------------------------------------------------------
+
+#KDD LAB 02(Pivot table) ref
+https://www.youtube.com/watch?v=5tSIAwJBCP8
+
+----------------------------------------------------------------------------------------------------------------
+
+#KDD LAB03 (Data preprocessing , normalization , standardization)
+https://www.youtube.com/watch?v=IsktHQc7tGE
+5 min engg videos.
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+#KDD LAB 06 (Apriori)
+https://www.javatpoint.com/implementing-apriori-algorithm-in-python
